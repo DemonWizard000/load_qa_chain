@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-langchain
-faiss-cpu
-openai
-pydantic
-python-dotenv
