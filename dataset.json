@@ -1,0 +1,897 @@
+[
+  {
+    "prompt": "How can I view the birthdays of the month?",
+    "completion": "You can view the birthdays of the month by going to 'My Shortcuts', then 'Birthdays of the Month'. On the screen, a list of employees who have birthdays in the corresponding month will appear. It will indicate the date of the birthday and the cost center to which they belong."
+  },
+  {
+    "prompt": "How can I generate a DGT-2 report?",
+    "completion": "You can generate a DGT-2 report by going to 'Reports', then 'Human Resources', and finally to 'DGT-2 Report'."
+  },
+  {
+    "prompt": "How can I view the accounts payable report?",
+    "completion": "You can view the accounts payable report by going to 'Reports', then 'Financial and Fiscal', and finally to 'Accounts Payable'. Select the start and end dates for the range you want to view. You also have the option to choose the currency in which you want to generate the report. Then click on the 'Generate' button, and you will be able to view the report."
+  },
+  {
+    "prompt": "How can I post an income credit/debit note?",
+    "completion": "You can post an income credit/debit note by going to 'Sales', then 'Credit/Debit Notes', and finally to 'List of Credit/Debit Notes'. On the screen, you'll see the credit notes registered in the system. Select the credit note you wish to post by clicking on the number in the 'ID' column of the note. After opening the credit/debit note, click the 'Post' button, which will take you to the journal entry. Then, press the 'Save' button. After this, the credit/debit note will be posted."
+  },
+  {
+    "prompt": "How can I generate an inventory transfer report?",
+    "completion": "You can generate an inventory transfer report by going to 'Reports', then 'Orders and Invoicing', and finally to 'Inventory Transfers'."
+  },
+  {
+    "prompt": "How can I configure the payroll?",
+    "completion": "You can configure the payroll by going to 'HR', then 'Payroll', and finally to 'Payroll Configuration'. On the screen, you will see all the fields related to the configuration of dates, cut-off days, payroll cycles, working days factor, per capita amount, tax accounts, and payroll expenses to be configured. After filling out all the configuration information, press the 'Save' button, and the changes will be saved."
+  },
+  {
+    "prompt": "How can I generate a journal entries report?",
+    "completion": "You can generate a journal entries report by going to 'Reports', then 'Financial and Fiscal', and finally to 'Journal Entries'. On the screen, select the start date and end date of the date range you wish to view in the report. You can also choose the currency and filter by cost center if desired. After selecting the required specifications, click on the 'Generate Report' button and the system will generate it."
+  },
+  {
+    "prompt": "How can I access the Treasury?",
+    "completion": "You can access the Treasury by selecting the 'Treasury' option. Within it, you can manage banks, payments, reconciliations, petty cash configurations, and import data."
+  },
+  {
+    "prompt": "How can I generate a product purchase report?",
+    "completion": "You can generate a product purchase report by going to 'Reports', then 'Orders and Purchases', and finally to 'Product Purchase Report'."
+  },
+  {
+    "prompt": "How can I register a payment?",
+    "completion": "You can register a payment by going to 'Sales', then 'Payments', and finally to 'Payment List'. Click on the 'Register Payment' button. On the screen, fill in the boxes with the general information of the payment and include a note. Then click on the 'There are (quantity) invoices' button, and the list of pending invoices for the selected contact will be displayed. To pay a full invoice, click on the 'Pay in Full' button of the invoice you want to pay. If you want to apply a partial payment to an invoice, enter the amount in the 'Amount to Pay' column and then click the '+' button. Then select the payment method for the payment, the account, the amount, and the bank when required by the system. Click the '+' button after adding the payment method. Then click the 'Save' button, and the payment will be registered."
+  },
+  {
+    "prompt": "How can I set up payroll cycles?",
+    "completion": "You can set up payroll cycles by going to 'Settings', then 'Money', and finally to 'Payroll Cycles'."
+  },
+  {
+    "prompt": "How can I place an order?",
+    "completion": "You can place an order by going to 'Supply Management', then 'Orders', and finally to 'Place Orders'. In the 'Search' box, enter the name of the product, select the correct option from the list that appears, and click on the magnifying glass icon. The product will be displayed, enter the required quantity, and click 'Add to Order'. Repeat the same procedure to add all the products to the order. Click on 'Place Order', fill in the cost center field with the appropriate value, and click 'Complete Order'. The order will be registered. Always consider the presentation of the created product to avoid errors."
+  },
+  {
+    "prompt": "How can I add income receipt concepts?",
+    "completion": "You can add income receipt concepts by going to 'Sales', then 'Income Receipt', and finally to 'Income Concepts'. On the screen, the created income receipt concepts will appear. Click on the 'Add Income Receipt Concept' button. Then assign a name and a description to the new income receipt concept you want to create and click the 'Save' button. The income receipt concept will be created."
+  },
+  {
+    "prompt": "How can I view the purchase quotations list?",
+    "completion": "You can view the purchase quotations list by going to 'Procurement', then 'Purchase Quotations', and finally to 'Quotations'."
+  },
+  {
+    "prompt": "How can I create a journal entry?",
+    "completion": "You can create a journal entry by going to 'Accounting', then 'Journals & Cycles', and finally to 'General Journal'. Click on the 'Register Transaction' button. On the next screen, enter the date and a general note for the journal entry. Fill in the fields with the transaction information you want to record. You'll first enter and select the chart of accounts you want to add. Enter the amount in the debit or credit field accordingly, then enter the cost center and note. After completing this information, press the '+' button to add the transaction. Repeat this process for all the necessary transactions. Ensure that the journal entry is balanced (the total debits and credits have the same amount) before clicking the 'Save' button. When the journal entry reloads, press the 'Close' button, and your journal entry will be saved."
+  },
+  {
+    "prompt": "How can I register a fixed asset?",
+    "completion": "You can register a fixed asset by going to 'Accounting', then 'Fixed Assets', and finally to 'Asset List'. You will see a list of fixed assets. Click on the 'Register Fixed Asset' button. Fill in all the boxes with the information of the fixed asset you wish to register, specifying all the details. After filling in all the information, click the 'Register Asset' button, and the asset will be created."
+  },
+  {
+    "prompt": "How can I register expense credit/debit notes?",
+    "completion": "You can register expense credit/debit notes by going to 'Accounting', then 'Notes', and finally to 'Credit/Debit Notes List'. In the Credit/Debit Notes module, click on the 'Create Note' button. Fill in the general information of the credit/debit note and click the 'Update' button. After updating the page, click the 'Add Detail' button. Add the items included in the credit/debit note, along with their quantities and corresponding prices. Once you have added all the items and the credit/debit note is balanced, click the 'Create Note' button. The credit/debit note will be registered."
+  },
+  {
+    "prompt": "How can I set up health insurance (ARS)?",
+    "completion": "You can set up health insurance by going to 'Settings', then 'Company', and finally to 'Health Insurance (ARS)'."
+  },
+  {
+    "prompt": "How can I create an accounting cycle?",
+    "completion": "You can create an accounting cycle by going to 'Accounting', then 'Journals & Cycles', and finally to 'Accounting Cycles'. On the screen, you'll see the created accounting cycles. Click on the 'Add Accounting Cycle' button. In the description box, assign a name to the accounting cycle you are creating. Then select the start date and end date of the accounting cycle to be created and press the 'Save' button. The accounting cycle will be registered."
+  },
+  {
+    "prompt": "How can I approve payment requests?",
+    "completion": "You can approve payment requests by going to 'Treasury', then 'Payments', and finally to 'Inbox'. In the list, payment requests will be displayed in date order. In the 'Status' box, select the option 'Registered' and click on the 'Filter' button. Registered payment requests will be displayed. Check the box on the left side of the 'Account Contact' column for the payment requests you want to approve. Then click on the 'Approve All' button, and the selected requests will be approved and converted into payments."
+  },
+  {
+    "prompt": "How can I view cancelled income invoices?",
+    "completion": "You can view cancelled income invoices by going to 'Sales', then 'Invoices', and finally to 'Cancelled Invoice List'. In the list, you will see the cancelled income invoices. If you want to view the details, click on the 'View Invoice' button."
+  },
+  {
+    "prompt": "How can I view my evaluations?",
+    "completion": "You can view your evaluations by navigating to 'My Shortcuts' and then selecting 'My Evaluations'. Your evaluations for the current year will be presented on the screen, month by month. To approve them, simply press the 'Approve' button for the corresponding month's evaluations."
+  },
+  {
+    "prompt": "How to access the DGT-3 report?",
+    "completion": "You can generate the DGT-3 report by navigating to 'Reports', then choosing 'Human Resources', and finally selecting 'DGT-3 Report'."
+  },
+  {
+    "prompt": "How can I generate an Exit Report?",
+    "completion": "The Exit Report can be generated by going to 'Reports', then 'Human Resources', and finally choosing 'Exit Report'."
+  },
+  {
+    "prompt": "What's the process to create an Income Receipt?",
+    "completion": "To create an income receipt, navigate to 'Sales', then 'Income Receipt', and click on 'List'. Click on 'Create Receipt' button, and fill in the necessary information. After filling in the payment method and other details, click the '+' button and then the 'Save' button to register the payment receipt."
+  },
+  {
+    "prompt": "How do I view my evaluations?",
+    "completion": "You can view your evaluations by going to 'My Shortcuts', then 'My Evaluations'. Your evaluations for the current year will be presented month by month. Press the 'Approve' button for the corresponding month's evaluations."
+  },
+  {
+    "prompt": "How can I generate a report of all products' stock?",
+    "completion": "To generate a report of all products' stock, navigate to 'Reports', then 'Orders and Invoicing', and finally select 'Stock of all Products'."
+  },
+  {
+    "prompt": "What's the process to set up companies?",
+    "completion": "Setting up companies can be done by going to 'Settings', then 'Company', and finally choosing 'Companies'."
+  },
+  {
+    "prompt": "How can I view movements of my accounts?",
+    "completion": "You can view movements of your accounts by going to 'My Shortcuts', then 'My Account Transactions'. Fill in the fields 'From Date' and 'To Date', enter your name in the 'Account' field, and select either 'Accounts Receivable' or 'Accounts Payable'. Press the 'Search' button to generate the report."
+  },
+  {
+    "prompt": "What's the process to set up contact groups?",
+    "completion": "To set up contact groups, you should navigate to 'Settings', then 'Company', and finally select 'Contact Groups'."
+  },
+  {
+    "prompt": "How can I create petty cash funds?",
+    "completion": "To create petty cash funds, go to 'Treasury', then 'Petty Cash', and 'Petty Cash' again. Click on 'Add Petty Cash Fund', fill in the information and click 'Open Petty Cash Fund'. A payment request will be created for fund creation. Approve the fund by going to 'Treasury', 'Payments', and then 'Payments - Inbox'. Open the request and click 'Approve' to finalize."
+  },
+  {
+    "prompt": "How to generate a daily sales report?",
+    "completion": "To generate a daily sales report, you should navigate to 'Reports', then 'Sales', and finally select 'Daily Sales Report'."
+  },
+  {
+    "prompt": "What's the process to request payment to suppliers?",
+    "completion": "To request payment to suppliers, go to 'Procurement', then 'Invoices', and 'Invoice List'. Enter the supplier's name, select the invoices, and click 'Pay Invoices'. Then, click 'Request Payment', fill in the necessary details, and click 'Save'. The payment request will be created."
+  },
+  {
+    "prompt": "How do I access the IR4 report?",
+    "completion": "Access the IR4 report by going to 'Reports', then 'Payroll', and selecting 'IR4 Report'."
+  },
+  {
+    "prompt": "What is the process for accessing the recurring invoices report?",
+    "completion": "You can access the recurring invoices report by navigating to 'Reports', then 'Sales', and finally 'Recurring Invoices'."
+  },
+  {
+    "prompt": "How do I configure the cash flow report?",
+    "completion": "You can configure the cash flow report by going to 'Reports', 'Financial and Fiscal', and then 'Cash Flow'."
+  },
+  {
+    "prompt": "How do I generate the trial balance report?",
+    "completion": "To generate the trial balance report, go to 'Reports', then 'Financial and Fiscal', and select 'Trial Balance'. Fill in the necessary specifications, and then click 'Generate Report'."
+  },
+  {
+    "prompt": "What is the procedure for approving outgoing invoices?",
+    "completion": "To approve outgoing invoices, navigate to 'Supply Management', then 'Invoices', and 'Invoice List'. Select the invoice you want to approve and verify the information, then click 'Approve'. The invoice status will change to 'Verified'."
+  },
+  {
+    "prompt": "How to set up a dinner voucher?",
+    "completion": "Setting up a dinner voucher can be done by going to 'Settings', then 'Money', and selecting 'Dinner Voucher'."
+  },
+  {
+    "prompt": "How do I access the deductions payroll report?",
+    "completion": "Access the deductions payroll report by going to 'Reports', then 'Payroll', and selecting 'Deductions Payroll Report'."
+  },
+  {
+    "prompt": "How to set up Verifones?",
+    "completion": "Setting up Verifones can be done by navigating to 'Settings', then 'Money', and finally selecting 'Verifones'."
+  },
+  {
+    "prompt": "How do I access the sales report by products?",
+    "completion": "You can access the sales report by products by going to 'Reports', then 'Sales', and selecting 'Sales by Products'."
+  },
+  {
+    "prompt": "How do I access my shortcuts?",
+    "completion": "You can access your shortcuts by simply going to 'Short Cuts'. There you will find options like 'My Calendar', 'My Evaluations', 'My Vacations', 'My Work Schedule', 'My Account Transactions', 'My Orders', 'Birthdays of the Month', 'Company Organization Chart'."
+  },
+  {
+    "prompt": "How do I edit a payment request?",
+    "completion": "To edit a payment request, go to 'Treasury', then 'Payments', and 'Inbox'. Select the payment request to modify and make the necessary changes. Press 'Save', 'Save and Add Another', or 'Save and Continue Editing' depending on your needs."
+  },
+  {
+    "prompt": "What is the process to generate the Hour Expenses report?",
+    "completion": "The Hour Expenses report can be generated by navigating to 'Reports', then 'Human Resources', and finally selecting 'Hour Expenses'."
+  },
+  {
+    "prompt": "How do I generate Report 606?",
+    "completion": "To generate Report 606, go to 'Reports', then 'Financial and Fiscal', and select 'Report 606'. Select the period, click 'Load', then 'Validate'. Correct any errors, then click 'Export to Excel' or 'Download File'."
+  },
+  {
+    "prompt": "What information can I find in the Treasury Dashboard?",
+    "completion": "You can view the Treasury Dashboard by going to 'Treasury', then 'Banks', and selecting 'Dashboard'. Here, you'll see all configured bank accounts with their current balances."
+  },
+  {
+    "prompt": "How do I edit an inventory transfer?",
+    "completion": "To edit an inventory transfer, go to 'Accounting', then 'Inventory Transfer', and 'Outbox'. Select the transfer you want to modify and make the necessary changes, then click 'Update Transfer', and 'Complete Request'."
+  },
+  {
+    "prompt": "How to configure petty cash funds?",
+    "completion": "Configure petty cash funds by going to 'Treasury', then 'Petty Cash', and 'Configuration'. Fill in the cash account, overage and shortage account, then click 'Save Configuration'."
+  },
+  {
+    "prompt": "How do I generate the General Balance report?",
+    "completion": "To generate the General Balance report, go to 'Reports', then 'Financial and Fiscal', and select 'General Balance'. Fill in the necessary specifications, and then click 'Generate Report'."
+  },
+  {
+    "prompt": "How do I set up supplementary insurance plans?",
+    "completion": "Setting up supplementary insurance plans can be done by navigating to 'Settings', then 'Company', and finally selecting 'Supplementary Insurance Plans'."
+  },
+  {
+    "prompt": "How do I access the Employee Master report?",
+    "completion": "Access the Employee Master report by going to 'Reports', then 'Human Resources', and selecting 'Employee Master'."
+  },
+  {
+    "prompt": "How to manage System Emails?",
+    "completion": "To manage System Emails, navigate to: Configuration > Company > System Emails. Here, you can view, edit, and manage system emails."
+  },
+  {
+    "prompt": "What is the procedure for Credit/Debit Notes in Process?",
+    "completion": "To handle Credit/Debit Notes in Process, go to: Sales > Credit/Debit Notes > List of Credit/Debit Notes in Process. In the list, you will see the credit/debit notes for income that are in process. Select the note you wish to create by clicking on its ID. Once you view the note, press the 'Create Note' button and it will be registered."
+  },
+  {
+    "prompt": "What is the Accountant Reconciliation Procedure?",
+    "completion": "To perform Accountant Reconciliation, go to: Sales > Sales Reconciliation > Accountant Reconciliation. Select the date and cost center you wish to reconcile, and click the 'Load' button. The waiters' reconciliations corresponding to that date will appear. Open and review the information of each waiter's reconciliation, then click the 'Verified' button at the bottom of each reconciliation. Once you have reviewed all the waiters' reconciliations, click the small blank box below the word 'Select' and then click the 'Post' button. The system will generate a journal entry with the provided information. Proceed to modify the information in the entry as needed. To modify a transaction in the journal entry, click the 'Edit' icon (shaped like a pencil on a notepad). The system will open a small pop-up window where you can edit the information you wish to change. Click the 'Update' button to save the changes. To add a transaction to the journal entry, fill in the blank fields and then click the button with the '(+) Add Journal Entry' symbol. Once you have finished adding and modifying transactions and the journal entry is balanced, click the 'Save' button. The journal entry will be saved, and the accountant reconciliation process will be complete."
+  },
+  {
+    "prompt": "What is the Employee Creation Procedure?",
+    "completion": "To create a new Employee, go to: HR > Employees > Employee Center. Press the 'Add Employee' button, fill in all the fields with the information of the employee you wish to create, press the 'Save' button, and the employee profile will be registered."
+  },
+  {
+    "prompt": "How to set up Taxes?",
+    "completion": "To set up Taxes, navigate to: Settings > Money > Taxes. Here you can manage your tax settings."
+  },
+  {
+    "prompt": "What is the procedure for Bank Reconciliations?",
+    "completion": "To perform Bank Reconciliations, go to: Reports > Financial and Fiscal > Bank Reconciliations. Select the year, month, and bank account you want to view, then click on the 'Generate Report' button, and the Bank Reconciliation report will be generated."
+  },
+  {
+    "prompt": "What is the Payment Settlement Procedure?",
+    "completion": "To settle payments, go to: Treasury > Payments > Payments. In the list, payments registered in date order will appear. Click on the 'More Filters' button and select 'Registered' in the 'Status' field. Check the box on the left side of the 'ID' column for the payments you want to settle. Then click the 'Settle Selected' button and the payments will be settled."
+  },
+  {
+    "prompt": "What is the Department Creation Procedure?",
+    "completion": "To create a new Department, go to: HR > Employees > Departments. On the screen, the created departments will appear. To add a new department, click on the 'Add Department' button, then fill in the Description field where you will enter the name of the department to create and assign a code to the department. Once you have finished, press the 'Save' button, and the department will be created."
+  },
+  {
+    "prompt": "What is the procedure to Activate Canceled Invoice?",
+    "completion": "To activate a canceled invoice, go to: Procurement > Invoices > Canceled Invoices. On the screen, you will see the list of canceled or voided invoices. Click on the 'View Invoice' button of the invoice you want to activate. The system will display the canceled invoice. Click on the 'Activate' button, and the invoice will change its status to registered."
+  },
+  {
+    "prompt": "What is the Financial Certificate Creation Procedure?",
+    "completion": "To create a Financial Certificate, go to: Treasury > Banks > Financial Certificates. Press the 'Create Financial Certificate' button and fill in the fields with the information for the financial certificate to be created. Then, click the 'Save' button, and the financial certificate will be created."
+  },
+  {
+    "prompt": "What is the procedure for Mail Tracking?",
+    "completion": "To track mail, go to: Settings > Company > Mail Tracking."
+  },
+  {
+    "prompt": "How to generate a Cash Flow Report?",
+    "completion": "To generate a Cash Flow report, go to: Reports > Financial and Fiscal > Cash Flow. On the screen, select the start date and end date of the date range you wish to view in the report and choose the currency. After selecting the required specifications, click on the 'Generate Report' button and the system will generate it."
+  },
+  {
+    "prompt": "What is the Legal Tip Points Assignment Procedure?",
+    "completion": "To assign legal tip points, go to: HR > Employees > Tip Points. In the first field, enter the cost center to which the employee(s) belongs that you want to add tip points for, and press the 'Load' button. The list of employees corresponding to that cost center will appear. Then, assign the number of points or fixed amounts to each employee and specify whether it is points or an amount in the last field. After adding the points for the employees, press the 'Save' button, and the changes will be registered."
+  },
+  {
+    "prompt": "How to set up Access Controls?",
+    "completion": "To set up Access Controls, go to: Settings > Administration > Access Controls."
+  },
+  {
+    "prompt": "What is the procedure to delete an invoice?",
+    "completion": "To delete an invoice, go to: Procurement > Invoices > Invoice List. Select the link in the Invoice Number of the invoice you want to delete. In the Invoice module, click the 'Void' button on the upper left side. In the pop-up window, click the 'Void' button again. The invoice will be voided."
+  },
+  {
+    "prompt": "What is the Purchase Order Generation Procedure?",
+    "completion": "To generate Purchase Orders, go to: Supply Management > Orders > Order List. The screen will display the orders placed by each cost center with their corresponding dates. If there are pending orders to be generated, a green banner will appear at the top of the screen, informing the number of pending orders to be processed. To generate the purchase orders, click on the 'Click to view list of pending orders to be generated' button. The window will display a list of suppliers with orders to be generated. Click on the suppliers for which you want to generate a purchase order. If you wish to view the details of an order, you can open it by clicking on the date of the order you want to view."
+  },
+  {
+    "prompt": "What is the Employee Per Capita Assignment Procedure?",
+    "completion": "To assign per capita to employees, go to: HR > Employees > Per Capita. On the screen, the list of employees will appear, and to the right of each name, enter the number of dependents that they have. Then, select the 'Save' button, and the made changes will be saved."
+  },
+  {
+    "prompt": "What is the procedure to Cancel Transactions in Range?",
+    "completion": "To cancel transactions in range, go to: Accounting > Journals & Cycles > Cancel Transactions in Range. Proceed to select the 'From Date' and 'To Date' boxes with the date range of the transactions you need to cancel. Then click the 'Cancel' button, and a window will appear to confirm the action. Press the 'Accept' button, and the transactions in the selected date range will be canceled."
+  },
+  {
+    "prompt": "What is the Procedure for Hours Report?",
+    "completion": "To report hours, go to: HR > Overtime > Hours Report. On the screen, select the type of hours and the corresponding month to report. Then press the 'Show Date' button. The list of employees to whom you can report hours according to their position will appear. Enter the number of hours for each day and press the 'Enter' key to save the hours. After reporting the hours for each employee on the corresponding days, the system calculates the total hours and the amount to be paid per employee."
+  },
+  {
+    "prompt": "What is the Loan Creation Procedure?",
+    "completion": "To create a Loan, go to: Treasury > Banks > Loans. Press the 'Create Loan' button and fill in the fields with the information for the loan to be created. Then, click the 'Save' button, and the loan will be created."
+  },
+  {
+    "prompt": "What is the Position Creation Procedure?",
+    "completion": "To create a Position, go to: HR > Employees > Positions. On the screen, the created positions will appear. To add a new position, click on the 'Add Position Definition' button. Then, fill in the available fields related to the employee's reporting position and enter the name of the position you are creating. You have the option to add a note when you finish. Then, press the Save button, and the position will be created."
+  },
+  {
+    "prompt": "Can you guide me on managing the supply?",
+    "completion": "Absolutely! In the Supply Management section, you will find options like Purchase Orders, Orders, Invoices, Purchase Quotations, Inventory & Recipes, and Import Data. This section will help you to manage your business's purchasing and inventory needs."
+  },
+
+  {
+    "prompt": "How do I set up accounts migration?",
+    "completion": "Sure, it's simple. Please follow these steps: Go to 'Settings', then 'Administration', and finally click on 'Accounts Migration'. Here, you can set up your accounts migration."
+  },
+
+  {
+    "prompt": "I need to apply for a vacation, how do I do that?",
+    "completion": "Of course! You can do this by going to 'My Shortcuts' and then 'My Vacations'. Here, you will see your previous vacation requests. To request a new vacation, press the 'Request Vacation' button, fill out the form and press 'Save'."
+  },
+
+  {
+    "prompt": "How can I generate the product consumption report?",
+    "completion": "You can generate the product consumption report by navigating to 'Reports', then 'Orders and Invoicing', and finally 'Product Consumption Report'."
+  },
+
+  {
+    "prompt": "I need guidance on the purchase order receiving procedure.",
+    "completion": "Absolutely, it's a multi-step process. Start by going to 'Supply Management', then 'Orders', and click on 'Order Receiving'. Fill in all the fields with general information about the invoice, filter the products, enter the received quantity from the invoice and modify the price if necessary. After adding all the products from the invoice, click the blue 'Add to Invoice/Update' button..."
+  },
+
+  {
+    "prompt": "How do I generate an employee document?",
+    "completion": "Generating an employee document is straightforward. You need to go to 'HR', then 'Employees', and finally 'Employee Document Generation'. In the first field, select the type of certificate or letter. In the second field, select the employee's name..."
+  },
+
+  {
+    "prompt": "Can you help me generate an old accounts receivable report?",
+    "completion": "Sure thing! To generate an old accounts receivable report, go to 'Reports', then 'Financial and Fiscal', and finally 'Old Accounts Receivable'. Select the start and end dates for the range you want to view..."
+  },
+
+  {
+    "prompt": "How do I generate a profit and loss report?",
+    "completion": "Generating a profit and loss report is quite simple. Go to 'Reports', then 'Financial and Fiscal', and finally 'Profit and Loss'. On the screen, you will find all the necessary specifications to generate the report..."
+  },
+
+  {
+    "prompt": "I am a supervisor, how do I reconcile sales?",
+    "completion": "As a supervisor, you are responsible for verifying the sales reconciliations submitted by your team. To do this, go to 'Sales', then 'Sales Reconciliation', and finally 'Supervisor Reconciliation'. You will see a list of registered reconciliations..."
+  },
+
+  {
+    "prompt": "I am a waiter, how do I reconcile sales?",
+    "completion": "As a waiter, you can reconcile your sales by going to 'Sales', then 'Sales Reconciliation', and finally 'Sales Reconciliation'. Select the date and cost center for the reconciliation and click on the 'Search' button..."
+  },
+  {
+    "prompt": "Can you explain the payroll registration procedure?",
+    "completion": "Absolutely! Just follow these steps: Go to 'HR', then 'Payroll', and 'Create Payroll'. Here, you'll see sections for 'Main Data', 'Earnings', 'Other Earnings', 'Other Deductions', 'Pension Fund Administrator (AFP)', 'Social Security (SFS)', 'Income Tax (ISR)', and 'Summary'. Choose the type of payroll you want to create, fill in the required fields, and then press the 'Create' button. You'll see all employees associated with the selected cost center for that payroll, along with their monthly and period salaries to be registered. You need to enter all the information for each line item and press the 'Continue' button. Once you've completed each line item, you'll reach the 'Summary' section where you can review all the registered information. If everything is correct, press the 'Save and Close' button to register the payroll."
+  },
+
+  {
+    "prompt": "How do I request a procurement quotation?",
+    "completion": "It's a breeze! Just go to 'Procurement', then 'Purchase Quotations', and finally 'Requests'."
+  },
+
+  {
+    "prompt": "Can you guide me through creating tasks?",
+    "completion": "Of course! Here's what you do: Go to 'Maintenance', then 'Task List', and finally 'Add Task'. You'll see a 'Create Task' button. Click on it and you'll see a screen where you need to fill in the fields for 'Title', 'Responsible Person', 'Category', 'Due Date', 'Priority', 'Visibility', 'Status', and 'Attachment'. You can then add a category. Add some notes related to the task in the 'Description' field. Press the 'Save' button when you're done, and your task will be saved."
+  },
+
+  {
+    "prompt": "How do I generate a refund balances report?",
+    "completion": "Generating a refund balances report is easy. Just go to 'Reports', then 'Payroll', and finally 'Refund Balances Report'."
+  },
+
+  {
+    "prompt": "Can you walk me through the procedure for an inventory transfer journal entry?",
+    "completion": "Certainly! First, go to 'Accounting', then 'Inventory Transfer', and finally 'Inbox'. On the left side of the screen, you'll see a row titled 'Filter by Status'. In this row, click the 'Received' button. You'll see a list of transfers with the 'Received' status. Select and open the transfer you want to post by clicking on the link in the 'Request Date' column. Click the 'Post' button, and it will take you to the journal entry. Click the 'Save' button, and your inventory transfer will be posted."
+  },
+
+  {
+    "prompt": "How can I generate a special trial balance report?",
+    "completion": "Generating a special trial balance report is quite straightforward. First, go to 'Reports', then 'Financial and Fiscal', and finally 'Special Trial Balance'. On the screen, you'll see all the specifications required to generate the report. You can generate it for different date ranges, by cost centers, choose the currency, and include accounts receivable and accounts payable subsidiaries in the report. After selecting the required specifications, click on the 'Generate Report' button and the system will generate it for you."
+  },
+
+  {
+    "prompt": "How do I register the general inventory?",
+    "completion": "Here's the process: Go to 'Procurement', then 'Inventories & Recipes', and finally 'Inventories'. Click on the 'Declare Inventories' button, fill in the 4 available boxes and click the 'Start Inventory' button. The inventory list will appear, which can be sorted by category based on the tags assigned to the products. Click the 'Categories' button on the upper left side of the screen and select the category you want to filter by..."
+  },
+
+  {
+    "prompt": "How do I create payroll payment letters?",
+    "completion": "Creating payroll payment letters is quite easy. Go to 'HR', then 'Payroll', and finally 'Payroll Payment Letters Listing'. Click on the 'Add Payroll Payment Letter' box, then enter a description for the payment letter and type the letter with the required information in the blank field, using the variables that appear at the top of the screen. Then press the 'Add' button, and your payroll payment letter will be saved."
+  },
+
+  {
+    "prompt": "How do I set up contacts migration?",
+    "completion": "Setting up contacts migration is simple. Just go to 'Settings', then 'Administration', and finally 'Contacts Migration'."
+  },
+
+  {
+    "prompt": "How can I generate a cash disbursements report?",
+    "completion": "Generating a cash disbursements report is easy. Go to 'Reports', then 'Financial and Fiscal', and finally 'Cash Disbursements'."
+  },
+
+  {
+    "prompt": "How can I generate a DGT-11 report?",
+    "completion": "Generating a DGT-11 report is simple. Go to 'Reports', then 'Human Resources', and finally 'DGT-11 Report'."
+  },
+
+  {
+    "prompt": "What is the procedure to import trial balance?",
+    "completion": "To import trial balance, go to 'Accounting', then 'Import Data', and finally 'Import Trial Balance'. In the first box, select the date when you will import the trial balance. In the second box, select the file with the trial balance that you will upload to the system, following the technical specifications format. Once the file is loaded in the selected box, press the 'Start File Import' button, and the system will create a journal entry with the trial balance. Then, press the 'Save' button, and the balance will be registered."
+  },
+
+  {
+    "prompt": "How can I activate former employees?",
+    "completion": "To activate or re-enter a former employee into the system, go to 'HR', then 'Ex-Employees', and finally 'Former Employees Center'. Press the 'Edit' button in the Former Employees Center. Then, check the box 'Activate Account' and provide a brief justification. Press the 'Save' button, and the employee will be activated with the date of activation recorded."
+  },
+
+  {
+    "prompt": "How do I record an income receipt entry?",
+    "completion": "Recording an income receipt entry is straightforward. Go to 'Sales', then 'Income Receipt', and finally 'List'. On the screen, the registered income receipts will appear. Select the income receipt you want to record by clicking on the link in the 'Receipt No.' column. Review the information of the record, and if it is correct, click the 'Record' button. It will take you to the journal entry, and if everything is correct, press the 'Save' button."
+  },
+
+  {
+    "prompt": "How can I add an employee certificate or letter?",
+    "completion": "To add an employee certificate or letter, go to 'HR', then 'Employees', and finally 'Employee Certificate/Letter List'. Click on the 'Add Employee Certificate/Letter' button. Select the type of certificate or letter you want to add and assign a description or name. Then, write the text of the employee certificate or letter as desired, using the variables provided in the left column. When you have completed the text, press the 'Add' button, and the document will be created."
+  },
+
+  {
+    "prompt": "What is the procedure to receive inventory transfer?",
+    "completion": "Receiving an inventory transfer is simple. Go to 'Accounting', then 'Inventory Transfer', and finally 'Inbox'. On the left side of the screen, you will see a row titled 'Filter by Status'. In this row, click the 'Approved' button. In the list, you will see transfers with the 'Approved' status. Select and open the transfer you want to receive by clicking on the link in the 'Request Date' column. Then, click the 'Receive' button, and the status of the transfer will change to 'Received'."
+  },
+
+  {
+    "prompt": "How can I generate a 607 report?",
+    "completion": "Generating a 607 report is quite simple. Go to 'Reports', then 'Financial and Fiscal', and finally 'Report 607'. Select the period for which you want to generate the report, then click on the 'Load' button. A summary of the amounts to be reported in Report 607 for the selected period will appear at the top. The list of invoices registered in the generated period will appear at the bottom. Click on the 'Validate' button that appears at the top of the screen..."
+  },
+
+  {
+    "prompt": "How can I register an income credit or debit note?",
+    "completion": "Registering an income credit or debit note is easy. Go to 'Sales', then 'Credit/Debit Notes', and finally 'List of Credit/Debit Notes'. In the Credit/Debit Note module, click on the 'Create Note' button, then fill in the general information of the credit/debit note and press the 'Update' button. Once the page is updated, click on the 'Add Detail' button, and then add the items included in the credit/debit note along with their corresponding quantities and prices..."
+  },
+
+  {
+    "prompt": "How do I set up fiscal receipts?",
+    "completion": "Setting up fiscal receipts is straightforward. Just go to 'Settings', then 'Money', and finally 'Fiscal Receipts'."
+  },
+  {
+    "prompt": "How do I create an income invoice?",
+    "completion": "Creating an income invoice is simple. Go to 'Sales', then 'Invoices', and finally 'List of Invoices'. Click on the 'Billing' button, then select the point of sale for which you will create the invoice and click on the 'Select' button. In the invoice module, fill in all the boxes with general invoice information. Then, in the 'Product/Service' box, type and select the name of the product you want to add to the invoice. Enter the quantity and price of the product and click the 'Add' button. Select and add all the products that should be included in the invoice in the same manner. After that, click the 'Save' button on the invoice, and the income invoice will be registered."
+  },
+  {
+    "prompt": "How can I project salaries?",
+    "completion": "To project salaries, go to 'HR', then 'Projections', and finally 'Salary Projections'. On the screen, you will see the options to enter the percentage of salary increase, the period to which the increase will be applied, and the cost center."
+  },
+  {
+    "prompt": "How can I generate an income invoices report?",
+    "completion": "Generating an income invoices report is simple. Go to 'Reports', then 'Sales', and finally 'Income Invoices'."
+  },
+  {
+    "prompt": "How do I issue a purchase order?",
+    "completion": "Issuing a purchase order is easy. Go to 'Supply Management', then 'Orders', and finally 'View Orders'. In the list, you will see the open orders at the moment. Click on the 'Issue Order' button at the top right of the screen. Proceed to add all the information for the order to be issued, then click the 'Add Details' button to add each item you want to include in the purchase order. After adding all the items, click the 'Save' button, and the purchase order will be registered."
+  },
+  {
+    "prompt": "What is the procedure for credit/debit notes for expenses in process?",
+    "completion": "To create credit/debit notes for expenses in process, go to 'Accounting', then 'Notes', and finally 'Credit/Debit Notes in Process'. On the list, you will see the credit/debit notes. Select the note you wish to create by clicking on its ID. Once you view the note, press the 'Create Note' button, and it will be registered."
+  },
+  {
+    "prompt": "How can I configure mass messages?",
+    "completion": "To configure mass messages, go to 'Settings', then 'Company', and finally 'Mass Messages'."
+  },
+  {
+    "prompt": "What is the configuration procedure for deductions/conceptual income?",
+    "completion": "To configure deductions/conceptual income, go to 'HR', then 'Payroll', and finally 'Configuration Procedure for Deductions/Conceptual Income'. Open the 'Add Other Income/Deduction Concepts' box. In the 'Details Type' box, select whether it is a deduction or income. Then, assign a concept or name to that deduction or income and fill in the required information. Then press the 'Save' button, and the information will be registered."
+  },
+  {
+    "prompt": "How do I approve credit/debit notes for expenses?",
+    "completion": "To approve credit/debit notes for expenses, go to 'Accounting', then 'Notes', and finally 'Credit/Debit Notes to Approve'. On the list, you will see the credit/debit notes to be approved. Select the note you wish to approve, press the approve button, and the debit note will be approved."
+  },
+  {
+    "prompt": "How can I create an income quotation template?",
+    "completion": "Creating an income quotation template is easy. Go to 'Sales', then 'Quotations', and finally 'Template List'."
+  },
+  {
+    "prompt": "How can I generate Report 608?",
+    "completion": "Generating Report 608 is simple. Go to 'Reports', then 'Financial and Fiscal', and finally 'Report 608'. Select the period for which you want to generate the report, then click on the 'Load' button. A summary of the voided vouchers to be reported in Report 608 for the selected period will appear at the top. The list of voided invoices that appear in the generated period will appear at the bottom. Click on the 'Validate' button that appears at the top of the screen. Then click on the 'Export to Excel' button that appears at the top of the screen to download it in Excel format, or fill in the box that appears at the bottom of the page and click the 'Download File' button to download it in TXT format."
+  },
+  {
+    "prompt": "How do I load novelties?",
+    "completion": "To load novelties, go to 'HR', then 'Payroll', and finally 'Novelties Loading'. On the screen, click on the import field, and in the folder, select the novelties file that you want to import into the system. Then press the 'Open' button, and the novelties will be loaded into the system."
+  },
+  {
+    "prompt": "How can I create a credit card?",
+    "completion": "To create a credit card, go to 'Treasury', then 'Banks', and finally 'Credit Cards'. Press the 'Create Credit Card' button and fill in the fields with the information for the credit card to be created. Then, click the 'Save' button, and the credit card will be created."
+  },
+  {
+    "prompt": "How can I generate a product orders by category report?",
+    "completion": "Generating a product orders by category report is simple. Go to 'Reports', then 'Orders and Purchases', and finally 'Product Orders by Category Report'."
+  },
+  {
+    "prompt": "How do I view purchase orders?",
+    "completion": "To view the status of purchase orders, go to 'Supply Management', then 'Orders', and finally 'View Orders'. Orders marked in red indicate that the supplier has not yet opened the sent order, while orders without highlighted color indicate otherwise. The status of the order is specified in the 'Status' column. If you want to view orders by supplier, enter the supplier's name in the 'Contact' field. This will display a list of issued orders related to that supplier."
+  },
+  {
+    "prompt": "How do I set up system access (permissions)?",
+    "completion": "To set up system access (permissions), go to 'Settings', then 'Administration', and finally 'System Access (Permissions)'."
+  },
+  {
+    "prompt": "How do I record weekly time?",
+    "completion": "To record weekly time, go to 'HR', then 'Extras', and finally 'Weekly Time Record'. For time record, on the screen, you will see the employees to whom you can register a work schedule. Click to the right of each employee on the day you wish to register the schedule. A window will open where you will enter the schedule in the boxes 'From' and 'To,' and then press the button with the '+' symbol to add it. Press the 'Register/Update' button to save it. For multiple time record, on the screen, you will have the option to choose by clicking the button 'Show Multiple Time Record,' where you will specify the date of the schedule and the range it will have (week, month, or year). Proceed to register the time ranges by entering the hours in the boxes 'From:' 'To:' and then clicking the 'Add' button. Then, enter and select the employees to whom you assign that schedule in the box 'Employee(s)' and press the button 'Register' to save the schedule. After adding all the employees to register their schedule, press the 'Save' button at the end of the screen, and the schedules will be saved."
+  },
+  {
+    "prompt": "How do I register spot checks?",
+    "completion": "To register spot checks, go to 'Procurement', then 'Inventories & Recipes', and finally 'Inventories'. Click on the 'Declare Inventories' button, then fill in the 4 available boxes and click the 'Start Inventory' button. The inventory list will appear, which can be sorted by category based on the tags assigned to the products. Click the 'Categories' button on the upper left side of the screen and select the category you want to filter by. Then enter the quantities of the products inventoried in the spot check in the 'Quantity' column. When a quantity is entered, the red clock icon to the left of the products will update the information, and the icon will change to a green checkmark indicating that the product is registered. After adding all the corresponding quantities for the products counted in the spot check, click the following buttons in the same order: 1- Add to Inventory. 2- Review Inventory. 3- Declare Spot Check. 4- Save. After this process, the spot check will be registered in the system."
+  },
+  {
+    "prompt": "How do I request an inventory transfer?",
+    "completion": "To request an inventory transfer, go to 'Accounting', then 'Inventory Transfer', and finally 'Request Transfer'. In the inventory transfer module, fill in the boxes with the general information of the transfer to be requested and click the 'Update Request' button. Then, enter and select the desired product in the product field and click the 'Search' button. Once the product appears, add the quantity to be requested and click the 'Update Request' button. Repeat this procedure to add all the products to be requested. Next, click the 'Complete Request' button. Once the page loads, click the same button again, and the request will be created."
+  },
+  {
+    "prompt": "How do I view my calendar?",
+    "completion": "To view your calendar, go to 'My Shortcuts', then 'My Calendar'. In the calendar, the night hours of the month will be displayed according to the employee's work schedule."
+  },
+  {
+    "prompt": "How can I create a current account?",
+    "completion": "To create a current account, go to 'Treasury', then 'Banks', and finally 'Current Accounts'. Press the 'Create Current Account' button and fill in the fields with the information for the account to be created. Then, click the 'Save' button, and the current account will be created."
+  },
+  {
+    "prompt": "How do I import payments?",
+    "completion": "To import payments, go to 'Treasury', then 'Import Data', and finally 'Import Treasury Documents'. In the first box, enter and select the credit account for the payments to import. In the second box, select the file of payments to import, following the specifications described on the page. Then click the 'Start File Import' button, and the payments will be registered."
+  },
+  {
+    "prompt": "How do I edit an inventory final or spot check?",
+    "completion": "To edit an inventory final or spot check, go to 'Procurement', then 'Inventories & Recipes', and finally 'Inventories'. A list will appear with the latest registered inventories. Click on the link in the 'Date' column of the inventory you want to edit. Once the selected inventory is open, click the 'Edit' button at the top of the screen. Then, the list will enable the quantity boxes, and they can be edited to the required quantities. Pay attention to the status change of the icon on the left side of the product. It will first change to red and then appear in green, indicating that the product has been updated. If you want to add a product that is not in the inventory or spot check, click the 'All Products' button, and all products will be displayed for you to add the necessary ones. After editing the required products and ensuring that the status icon of all edited products has been updated, simply click the 'Update Inventory' button, and the editing will be registered."
+  },
+  {
+    "prompt": "How can I generate a contact creation history report?",
+    "completion": "Generating a contact creation history report is easy. Go to 'Reports', then 'Contacts', and finally 'Contact Creation History Report'."
+  },
+  {
+    "prompt": "How do I approve an inventory transfer?",
+    "completion": "To approve an inventory transfer, go to 'Accounting', then 'Inventory Transfer', and finally 'Inbox'. In the list, you will see transfers in the 'New' status. Select and open the transfer you want to approve by clicking on the link in the 'Request Date' column. Then, click the 'Approve' button, and the status of the transfer will change to 'Approved'."
+  },
+  {
+    "prompt": "How do I set up products?",
+    "completion": "To set up products, go to 'Settings', then 'Products and Tags', and finally 'Products'."
+  },
+  {
+    "prompt": "How do I create a payroll code list?",
+    "completion": "To create a payroll code list, go to 'HR', then 'Payroll', and finally 'Payroll Code List'. Open the 'Add Payroll Code' box. Then, a window will open where you will enter the code, description, cost, and center. After entering the required information, press the 'Add' button."
+  },
+  {
+    "prompt": "How can I generate a supplier purchase report?",
+    "completion": "Generating a supplier purchase report is simple. Go to 'Reports', then 'Orders and Purchases', and finally 'Supplier Purchase Report'."
+  },
+  {
+    "prompt": "How do I close a purchase order?",
+    "completion": "To close a purchase order, go to 'Supply Management', then 'Orders', and finally 'View Orders'. In the list, you will see the open orders at the moment. To close these orders, click on the red 'Close Order' button. Note: All orders must be closed only if there are no pending products to receive from them."
+  },
+  {
+    "prompt": "How do I register an adjustment entry?",
+    "completion": "To register an adjustment entry, go to 'Accounting', then 'Journals & Cycles', and finally 'Adjustment Entry'. Click on the 'Register Transaction' button and on the next screen, enter the date and general note for the journal entry. Then fill in the fields with the transaction information you want to record. First, enter and select the chart of accounts you want to add. Enter the amount in the debit or credit field accordingly. Then enter the cost center and note. After completing this information, press the '+' button to add the transaction. After registering all the necessary transactions using the same process, verify that the journal entry is balanced, meaning that the total debits and credits have the same amount. Proceed to click the 'Save' button, and when the journal entry reloads, press the 'Close' button. The journal entry will be saved."
+  },
+  {
+    "prompt": "How can I generate time clock reports?",
+    "completion": "Generating time clock reports is easy. Go to 'Reports', then 'Human Resources', and finally 'Time Clock Reports'."
+  },
+  {
+    "prompt": "What is the procedure for an expense report?",
+    "completion": "To create an expense report, go to 'Accounting', then 'Expense Report', and finally 'Expense Report'."
+  },
+  {
+    "prompt": "How can I set up invoice headers?",
+    "completion": "To set up invoice headers, go to 'Settings', then 'Money', and finally 'Invoice Headers'."
+  },
+  {
+    "prompt": "How do I view the chart of accounts?",
+    "completion": "To view the chart of accounts, go to 'Reports', then 'Financial and Fiscal', and finally 'Chart of Accounts'. In the blank box, type and select the specific account you wish to view, then click on the 'Search' button. After that, click on the account that appears in the report, and you will be able to see all the transactions for that account."
+  },
+  {
+    "prompt": "How do I create an income invoice?",
+    "completion": "To create an income invoice, go to 'Sales', then 'Invoices', and finally 'List'. On the list, you will see income invoices in the 'Registered' state. Select the invoice you wish to enter by clicking on the link in the 'Invoice No.' column. After opening the invoice and verifying that all the information is correct, press the 'Enter' button. The system will take you to the journal entry. Then, press the 'Save' button. The invoice will be entered."
+  },
+  {
+    "prompt": "How can I generate a payroll comparison report?",
+    "completion": "Generating a payroll comparison report is easy. Go to 'Reports', then 'Payroll', and finally 'Payroll Comparison Report'."
+  },
+  {
+    "prompt": "How do I import outgoing invoices?",
+    "completion": "To import outgoing invoices, go to 'Procurement', then 'Import Data', and finally 'Invoices'. You will see a screen for importing outgoing invoices. It contains 'Expand Instructions / Expand Example' sections. You can download the file according to the instructions. Then press the 'Start File Import' button to begin the import process."
+  },
+  {
+    "prompt": "How can I set up accounting accounts?",
+    "completion": "To set up accounting accounts, go to 'Settings', then 'Money', and finally 'Accounting Accounts'."
+  },
+  {
+    "prompt": "How can I view my work schedule?",
+    "completion": "To view your work schedule, go to 'My Shortcuts', then 'My Work Schedule'. On the screen, you will be able to view your assigned work schedule."
+  },
+  {
+    "prompt": "How do I create provision projections?",
+    "completion": "To create provision projections, go to 'HR', then 'Projections', and finally 'Provision Projections'. On the screen, you will see the provision projection sheet. Choose either to add monthly projection or average projection. Enter the cost center, year, month, and currency. Below, you can select all the items you want to include, such as vacations, severance pay, notice period, Christmas bonus, and employee social contributions. Then, press the 'Create Projection' button."
+  },
+  {
+    "prompt": "How can I generate an inventory valuation report?",
+    "completion": "Generating an inventory valuation report is simple. Go to 'Reports', then 'Orders and Invoicing', and finally 'Inventory Valuation Report'."
+  },
+  {
+    "prompt": "What is the procedure to close an accounting cycle?",
+    "completion": "To close an accounting cycle, go to 'Accounting', then 'Journals & Cycles', and finally 'Accounting Cycles'. On the screen, you will see the accounting cycles specifying the status of each one. Click on the 'Close' button to the right of the accounting cycle you want to close. On the screen, the debit and credit accounts that will be closed in the corresponding cycle will be presented. In the 'Income/Loss Account for the Period' box, select the capital account against which the nominal accounts will be closed, and click the 'Close Period' button. A journal entry for closing the accounting cycle will be created. If it is correct, press the 'Save' button and confirm the action. The accounting cycle will be closed."
+  },
+  {
+    "prompt": "How do I assign supplementary medical insurance?",
+    "completion": "To assign supplementary medical insurance, go to 'HR', then 'Employees', and finally 'Supplementary Medical Insurance'. On the screen, you will see the list of employees. Click on the employee to whom you will assign the medical insurance. In the 'Medical Plan' box, enter the corresponding medical plan, and in the 'Percentage Covered by Employee' box, enter the percentage to be covered by the employee. Below, you can add any dependents that the employee has by filling out the required information. Then, select the 'Save' button, and the changes made will be saved."
+  },
+  {
+    "prompt": "How can I generate an access control report?",
+    "completion": "Generating an access control report is easy. Go to 'Reports', then 'Human Resources', and finally 'Access Control Report'."
+  },
+  {
+    "prompt": "How do I generate a credit list report?",
+    "completion": "To generate a credit list report, go to 'Reports', then 'Contacts', and finally 'Credit List Report'."
+  },
+  {
+    "prompt": "How do I set a closing date?",
+    "completion": "To set a closing date, go to 'Accounting', then 'Journals & Cycles', and finally 'Closing Date'. In the 'Closing Date' box, select the date on which you wish to close the system for registering transactions, and then press the 'Save' button. After this, the system will not allow registering transactions on dates prior to the selected date."
+  },
+  {
+    "prompt": "What is the cost analysis procedure?",
+    "completion": "To perform a cost analysis, go to 'Procurement', then 'Inventories & Recipes', and finally 'Cost Analysis'. On the screen, enter the number of recipes you want to calculate in the provided box. After entering the number, press the 'Calculate' button, and the costed recipe will appear."
+  },
+  {
+    "prompt": "How can I generate a sales report between dates?",
+    "completion": "To generate a sales report between dates, go to 'Reports', then 'Sales', and finally 'Sales Between Dates'."
+  },
+  {
+    "prompt": "How do I configure shifts?",
+    "completion": "To configure shifts, go to 'Settings', then 'Company', and finally 'Shifts'."
+  },
+  {
+    "prompt": "How do I set up cost centers?",
+    "completion": "To set up cost centers, go to 'Settings', then 'Company', and finally 'Cost Centers'."
+  },
+  {
+    "prompt": "What is the procedure for payment terms?",
+    "completion": "To set payment terms, go to 'Accounting', then 'Journals & Cycles', and finally 'Payment Terms'. On the screen, existing contacts will appear. Click on the 'Edit Days' link, and on the following screen, enter the credit days to be assigned to the contact and press the 'Save' button. The information will be registered."
+  },
+  {
+    "prompt": "How can I generate a product orders report?",
+    "completion": "Generating a product orders report is simple. Go to 'Reports', then 'Orders and Purchases', and finally 'Product Orders Report'."
+  },
+  {
+    "prompt": "How do I create a recipe?",
+    "completion": "To create a recipe, go to 'Procurement', then 'Inventories & Recipes', and finally 'Recipes'. A list of created recipes will appear on the screen. Click the 'Add Recipe' button, then fill in the boxes with the general information of the recipe you want to create. You can add products or sub-recipes by selecting the option at the bottom. Write and select the product or sub-recipe you want to add, enter the quantity, and click the 'Add Product' button. Repeat this step to add all necessary products or sub-recipes. Then, click the 'Save' button, and the recipe will be created."
+  },
+  {
+    "prompt": "What is the payroll journal entry procedure?",
+    "completion": "To create a payroll journal entry, go to 'HR', then 'Payroll', and finally 'Payroll List'. Select and open the payroll you want to create a journal entry for, then press the 'Create Journal Entry' button. The system will generate the payroll journal entry. Review and modify the information as needed, and once you're finished, press the 'Save' button to finalize the journal entry."
+  },
+  {
+    "prompt": "How do I delete a recipe?",
+    "completion": "To delete a recipe, go to 'Procurement', then 'Inventories & Recipes', and finally 'Recipes'. In the list of recipes, click on the link in the recipe ID that you want to delete. Once the recipe is open, click the 'Edit' button, then click the 'Delete' button. The system will ask if you want to delete. Select the 'OK' option, and the recipe will be deleted."
+  },
+  {
+    "prompt": "How do I assign permissions to an employee?",
+    "completion": "To assign permissions to an employee, go to 'HR', then 'Employees', and finally 'Employee Center'. Search and select the link in the employee's name. In the employee dashboard, open the permissions option. Then, select the corresponding permissions you wish to add per row and press the 'Verify and Save' button. You need to press this button every time permissions are modified for each row."
+  },
+  {
+    "prompt": "How can I generate an income payroll report?",
+    "completion": "To generate an income payroll report, go to 'Reports', then 'Payroll', and finally 'Income Payroll Report'."
+  },
+  {
+    "prompt": "How do I set up individuals?",
+    "completion": "To set up individuals, go to 'Settings', then 'Company', and finally 'Individuals'."
+  },
+  {
+    "prompt": "How do I set up recurring discounts?",
+    "completion": "To set up recurring discounts, go to 'HR' and select 'Payroll', then choose 'Recurring Discounts Procedure'. A window labeled 'Discount List' will open. Open the 'Define Discounts' box and enter the required details. Press the 'Define' button when finished."
+  },
+  {
+    "prompt": "How can I perform a weekly schedule query?",
+    "completion": "To perform a weekly schedule query, go to 'HR' and select 'Extras', then choose 'Weekly Schedule Query'. You can search by date, previous week, or next week."
+  },
+  {
+    "prompt": "What are the steps to configure the treasury module?",
+    "completion": "To configure the treasury module, navigate to 'Treasury' and select 'Configuration', then choose 'Treasury Configuration'. Fill in the necessary information and select the accounts for bank reconciliation. Finally, click the 'Save' button."
+  },
+  {
+    "prompt": "How do I set up product tags?",
+    "completion": "To set up product tags, go to 'Settings' and select 'Products and Tags', then choose 'Tags'. Enter the required information to set up the desired product tags."
+  },
+  {
+    "prompt": "How can I perform a bank account reconciliation?",
+    "completion": "To perform a bank account reconciliation, go to 'Treasury' and select 'Reconciliation', then choose 'Bank Account Reconciliation'. Follow the instructions on the screen to select the account, reconcile transactions, and complete the process."
+  },
+  {
+    "prompt": "How do I set up recurring transactions?",
+    "completion": "To set up recurring transactions, go to 'Accounting' and select 'Journals & Cycles', then choose 'Recurring Transactions'. Click on 'Create Recurring Transactions' and enter the necessary details. Add journal entry transactions and save the recurring entry."
+  },
+  {
+    "prompt": "How can I generate a product movement report?",
+    "completion": "To generate a product movement report, go to 'Reports', then select 'Orders and Invoicing', and choose 'Product Movement'. The report will display the movement of products as per your selection."
+  },
+  {
+    "prompt": "What is the procedure to handle errors in recurring income invoices?",
+    "completion": "To handle errors in recurring income invoices, navigate to 'Sales', then select 'Invoices', and choose 'Recurring Invoice Errors'. You will see the recurring income invoices with errors. Open and correct the information as needed."
+  },
+  {
+    "prompt": "How can I access the credit card payments report?",
+    "completion": "To access the credit card payments report, go to 'Reports', then select 'Financial and Fiscal', and choose 'Credit Card Payments'. The report will provide details of credit card payments."
+  },
+  {
+    "prompt": "Where can I find the invoice report?",
+    "completion": "To find the invoice report, go to 'Reports', then select 'Orders and Purchases', and choose 'Invoice Report'. The report will display the invoices as per your selection criteria."
+  },
+  {
+    "prompt": "What are the steps to create an invoice?",
+    "completion": "To create an invoice, go to 'Supply Management', select 'Invoices', and choose 'Invoice List'. Click on 'Create Invoice' and fill in the necessary details. Add products/services, attach an invoice image, and save the invoice."
+  },
+  {
+    "prompt": "How do I set up points of sale?",
+    "completion": "To set up points of sale, go to 'Settings', then select 'Money', and choose 'Points of Sale'. Follow the instructions to configure your points of sale."
+  },
+  {
+    "prompt": "How do I enter a payment using the sales receipts feature?",
+    "completion": "To enter a payment using the sales receipts feature, go to 'Sales', then select 'Receipts', and choose 'List of Receipts'. Select the receipt you want to enter payment for, review the information, and click on the 'Enter' button. Save the journal entry to record the payment."
+  },
+  {
+    "prompt": "What is the procedure for handling employee departures?",
+    "completion": "To handle employee departures, go to 'HR', select 'Former Employees', and choose 'Employee Departure'. Click on the 'Add Employee Departure' button, search for the employee's name, fill in the required details, calculate benefits, and save the departure information. Record the expense and corresponding accounts payable for the benefits."
+  },
+  {
+    "prompt": "How can I view my orders?",
+    "completion": "To view your orders, go to 'My Shortcuts' and select 'My Orders'. The screen will display a list of your issued orders."
+  },
+  {
+    "prompt": "How can I view errors in recurring income invoices?",
+    "completion": "To view errors in recurring income invoices, go to 'Sales', select 'Invoices', and choose 'Recurring Invoice Errors'. The screen will show recurring income invoices with errors. You can open and correct them if needed."
+  },
+  {
+    "prompt": "Where can I find the Report 609?",
+    "completion": "To find Report 609, go to 'Reports', then select 'Financial and Tax Reports', and choose 'Report 609'. The report will provide the required information as per your selection."
+  },
+  {
+    "prompt": "How do I import payments into the system?",
+    "completion": "To import payments, go to 'Sales', select 'Import Data', and choose 'Import Payments'. Follow the instructions to import payment data into the system."
+  },
+  {
+    "prompt": "How do I import payroll?",
+    "completion": "To import payroll, go to 'HR', select 'Payroll', and choose 'Import Payroll'. Enter the cost center and currency, and select an Excel file for each payroll to be registered."
+  },
+  {
+    "prompt": "How can I register employee vacations?",
+    "completion": "To register employee vacations, go to 'HR', select 'Extras', and choose 'Vacation'. Click on the 'Register' button and fill in the vacation period and date range. Save the changes to complete the registration."
+  },
+  {
+    "prompt": "What is the procedure for approving credit/debit notes for income?",
+    "completion": "To approve credit/debit notes for income, go to 'Sales', select 'Credit/Debit Notes', and choose 'List of Credit/Debit Notes to be Approved'. Select the note you want to approve and click the 'Approve' button."
+  },
+  {
+    "prompt": "Where can I find the social security report?",
+    "completion": "To find the social security report, go to 'Reports', select 'Payroll', and choose 'Social Security Report'. The report will provide the required social security information."
+  },
+  {
+    "prompt": "How do I set up recurring income?",
+    "completion": "To set up recurring income, go to 'HR', select 'Payroll', and choose 'Recurring Income Procedure'. Open the 'Income List' and 'Define Income' boxes, then enter the necessary details and press the 'Define' button."
+  },
+  {
+    "prompt": "How do I set up holidays?",
+    "completion": "To set up holidays, go to 'Settings', select 'Company', and choose 'Holidays'. Follow the instructions to configure the holidays according to your organization's requirements."
+  },
+  {
+    "prompt": "What is the procedure for importing credit/debit notes?",
+    "completion": "To import credit/debit notes, go to 'Accounting', select 'Import Data', and choose 'Import Credit/Debit Notes'. Load the CSV file, select the options, and start the file import to register and post the notes."
+  },
+  {
+    "prompt": "How do I create a payroll request?",
+    "completion": "To create a payroll request, go to 'HR', select 'Payroll', and choose 'Payroll Request List'. Open the 'Create Payroll Request' window, enter the required information in the 'Define Income' box, and click the 'Create Request' button. Fill in the necessary information and save the payroll request."
+  },
+  {
+    "prompt": "Where can I find the DGT-5 report?",
+    "completion": "To find the DGT-5 report, go to 'Reports', select 'Human Resources', and choose 'DGT-5 Report'. The report will provide the required DGT-5 information."
+  },
+  {
+    "prompt": "How do I perform employee evaluations?",
+    "completion": "To perform employee evaluations, go to 'HR', select 'Overtime', and choose 'Employee Evaluation'. Select the employee to be evaluated and click the 'View Evaluations' button for the month. Assign scores and provide comments based on their performance in various categories. Save the evaluation when finished."
+  },
+  {
+    "prompt": "How do I set up banks?",
+    "completion": "To set up banks, go to 'Settings', select 'Money', and choose 'Banks'. Follow the instructions to add and configure the desired banks."
+  },
+  {
+    "prompt": "Where can I find the accounts receivable report?",
+    "completion": "To find the accounts receivable report, go to 'Reports', select 'Financial and Fiscal', and choose 'Accounts Receivable'. Select the start and end dates, choose the currency, if applicable, and click the 'Generate' button to view the report."
+  },
+  {
+    "prompt": "How do I record expense invoices?",
+    "completion": "To record expense invoices, go to 'Procurement', select 'Invoices', and choose 'Invoice List'. Apply the necessary filters, select the invoice you want to record, and click the 'Record' button. The system will guide you to the journal entry screen. Save the entry to record the invoice."
+  },
+  {
+    "prompt": "How do I set up units of measurement?",
+    "completion": "To set up units of measurement, go to 'Settings', select 'Products and Tags', and choose 'Units of Measurement'. Follow the instructions to add and configure the desired units of measurement."
+  },
+  {
+    "prompt": "How do I import invoices?",
+    "completion": "To import invoices, go to 'Sales', select 'Import Data', and choose 'Import Invoices'. Follow the instructions to import the invoices into the system."
+  },
+  {
+    "prompt": "Where can I find the leave report?",
+    "completion": "To find the leave report, go to 'Reports', select 'Human Resources', and choose 'Leave Report'. The report will provide the required leave-related information."
+  },
+  {
+    "prompt": "Where can I find the general ledger report?",
+    "completion": "To find the general ledger report, go to 'Reports', select 'Financial and Fiscal', and choose 'General Ledger'. Select the start and end dates, choose the currency, and apply any desired filters. Click the 'Generate Report' button to view the report."
+  },
+  {
+    "prompt": "What are the sales revenue aspects related to reconciliation, collections, invoices, credit/debit notes, and quotations?",
+    "completion": "The sales revenue aspects related to reconciliation, collections, invoices, credit/debit notes, and quotations can be found under the 'Sales' section. Explore the relevant options and functionalities to manage these aspects effectively."
+  },
+  {
+    "prompt": "How do I authorize invoices for approval?",
+    "completion": "To authorize invoices for approval, go to 'Procurement', select 'Invoices', and choose 'Invoices to be Approved (Approval Queue)'. Select the invoice you want to approve, verify the information, and analyze price and quantity variations. Check the boxes next to the products you wish to update the price for and click the 'Authorize' button."
+  },
+  {
+    "prompt": "How do I set up labels for individuals?",
+    "completion": "To set up labels for individuals, go to 'Settings', select 'Company', and choose 'Labels'. Follow the instructions to configure and manage labels for individuals within your organization."
+  },
+  {
+    "prompt": "What is the procedure for creating a payment request?",
+    "completion": "To create a payment request, go to 'Treasury', select 'Payments', and choose 'Payment Requests'. Fill in all the required information in the provided boxes and click the 'Save' button to register the payment request."
+  },
+  {
+    "prompt": "How do I configure sales settlements?",
+    "completion": "To configure sales settlements, go to 'Sales', select 'Sales Settlement', and choose 'Sales Settlement Configuration'. Fill in and select all the necessary information for the accounts related to the payment methods, assign tax rates, income concepts, income categories by sales, and add the banks and their accounts. Click the 'Save' button to save the sales settlement configuration."
+  },
+  {
+    "prompt": "Where can I find the inventory transfer report (outbound/inbound)?",
+    "completion": "To find the inventory transfer report (outbound/inbound), go to 'Reports', select 'Orders and Invoicing', and choose 'Inventory Transfers (Outbound/Inbound)'. The report will provide the relevant information related to inventory transfers."
+  },
+  {
+    "prompt": "How do I perform massive hours loading?",
+    "completion": "To perform massive hours loading, go to 'HR', select 'Extras', and choose 'Massive Hours Loading'. Select the Excel file containing the required columns: hour type, ID type, employee ID, date, and quantity. After selecting the file, press the 'Start File Import' key to load the hours."
+  },
+  {
+    "prompt": "How do I set up super users?",
+    "completion": "To set up super users, go to 'Settings', select 'Administration', and choose 'Super Users'. Follow the instructions to add and configure super users for the system."
+  },
+  {
+    "prompt": "What is the procedure for employee activation/deactivation?",
+    "completion": "To activate or deactivate employees in bulk, go to 'HR', select 'Ex-Employees', and choose 'Employee Activation/Deactivation'. Select the action (activate/deactivate) and check the box next to each employee you want to activate or deactivate. Press the 'Go' button to apply the changes."
+  },
+  {
+    "prompt": "How do I set up withholdings?",
+    "completion": "To set up withholdings, go to 'Settings', select 'Money', and choose 'Withholdings'. Follow the instructions to configure the desired withholdings for your organization."
+  },
+  {
+    "prompt": "How do I import initial data?",
+    "completion": "To import initial data, go to 'Settings', select 'Configuration', and choose 'Import Initial Data'. Follow the instructions to import the initial data required for system setup."
+  },
+  {
+    "prompt": "What is the procedure to void a posted outgoing invoice?",
+    "completion": "To void a posted outgoing invoice, go to 'Procurement', select 'Invoices', and choose 'Invoice List'. Filter and select the invoice you want to void by clicking on the link in the 'Invoice Number' column. In the invoice, click the 'View Transaction' button to access the journal entry. Click the 'Void Transaction' button to void the entry. After voiding the entry, go back to the invoice tab and click the 'Edit' button. The invoice will change to 'Received' status and can be edited or voided."
+  },
+  {
+    "prompt": "Where can I find the product report?",
+    "completion": "To find the product report, go to 'Reports', select 'Orders and Invoicing', and choose 'Product Report'. The report will provide detailed information about your products."
+  },
+  {
+    "prompt": "Where can I find the contacts report?",
+    "completion": "To find the contacts report, go to 'Reports', select 'Contacts', and choose 'Contacts Report'. The report will provide information about your contacts and their details."
+  },
+  {
+    "prompt": "How do I import income credit/debit notes?",
+    "completion": "To import income credit/debit notes, go to 'Sales', select 'Import Data', and choose 'Import Credit/Debit Notes'. Follow the instructions to import the income credit/debit notes into the system."
+  },
+  {
+    "prompt": "What is the procedure for expense labels?",
+    "completion": "To manage expense labels, go to 'Accounting', select 'Expense Report', and choose 'Expense Labels'. Follow the instructions to configure and manage expense labels according to your requirements."
+  },
+  {
+    "prompt": "What is the procedure for bank charges?",
+    "completion": "To manage bank charges, go to 'Treasury', select 'Reconciliation', and choose 'Bank Charges'. Follow the instructions to configure and manage bank charges in the system."
+  },
+  {
+    "prompt": "How do I perform the refund balance procedure?",
+    "completion": "To perform the refund balance procedure, go to 'HR', select 'Payroll', and choose 'Refund Balances'. Select the period corresponding to the refund balances you want to report. Click on the 'Import Refund Balances' box and select the refund balances file downloaded from DGII. Press the 'Open' button, and the employees' refund balances will be loaded into the list."
+  },
+  {
+    "prompt": "Where can I find the payroll accumulated report?",
+    "completion": "To find the payroll accumulated report, go to 'Reports', select 'Payroll', and choose 'Payroll Accumulated Report'. The report will provide accumulated payroll information."
+  },
+  {
+    "prompt": "How do I view the company organization chart?",
+    "completion": "To view the company organization chart, go to 'My Shortcuts' and select 'Company Organization Chart'. The chart will display based on positions, and clicking on a position will show the employees currently occupying that position."
+  },
+  {
+    "prompt": "Where can I find the product price change report?",
+    "completion": "To find the product price change report, go to 'Reports', select 'Orders and Invoicing', and choose 'Product Price Change Report'. The report will provide information about price changes for your products."
+  },
+  {
+    "prompt": "What is the procedure for savings account creation?",
+    "completion": "To create a savings account, go to 'Treasury', select 'Banks', and choose 'Savings Accounts'. Click the 'Create Savings Account' button and fill in the fields with the required account information. Click the 'Save' button, and the savings account will be created."
+  },
+  {
+    "prompt": "Where can I find report DGT-4?",
+    "completion": "To find report DGT-4, go to 'Reports', select 'Human Resources', and choose 'DGT-4 Report'. The report will provide relevant information related to human resources."
+  }
+]
